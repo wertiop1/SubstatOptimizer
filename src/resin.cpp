@@ -1,3 +1,4 @@
+#include "resin.h"
 #include <cmath>
 
 int external_resin(int time) {
